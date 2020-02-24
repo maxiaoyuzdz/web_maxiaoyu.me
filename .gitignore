@@ -1,0 +1,8 @@
+/.babelrc
+/.editorconfig
+/.emacs.desktop
+/.eslintignore
+/node_modules
+/dist
+/config
+/build
